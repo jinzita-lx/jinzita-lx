@@ -24,8 +24,8 @@ AI Studio个人主页地址：[AI Studio 卷鑫菜](https://aistudio.baidu.com/a
   WEB
 </h1>
 * 做过一些Web前端的小项目，例如好物优选商城、Steam热门游戏推荐、小鑫聊天室等~~
-* 之前做的项目都在Gitee啦，支持国产（x 后续会陆陆续续的转战Github
-* 这里也是我
+* 之前做的项目都在Gitee啦，不过平时不经常做一些开源代码，因此项目比较少，这里放上gitee链接[jinzita_lx](https://gitee.com/jinzita_lx)
+* 后续会陆陆续续的转战Github, 并且我会将代码以更优雅的方式展现出来
 
 
 <h1 align="center"> - 新的开始 - </h1>
