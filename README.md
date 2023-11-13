@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img style="border-radius: 50%;box-shadow: 0 10px 25px -5px #555; margin-bottom:10px" width="28%"
+  <img style="border-radius: 50%; box-shadow: 0 10px 25px -5px #555; margin-bottom:10px" width="28%"
      src="https://avatars.githubusercontent.com/u/81578058?v=4">
   <br>
  ✨ 卷鑫菜 ✨
