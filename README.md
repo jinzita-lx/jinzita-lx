@@ -9,18 +9,6 @@
 <p align="center"> 我是一名准大四的学生,热衷于了解前端技术，喜爱AI，喜爱折腾，希望可以认识你，交个朋友啦~✨^_^✨ </p>
 
 <h1 align="center">
- · AI ·
-</h4>
-
-* 搞过一段时间AI，可以访问我的AI Studio主页哦，内涵各种机器学习的手写入门算法KNN、KD树、决策树、SVM、随机森林等~~
-* 喜欢折腾模型，拥有一些基于PaddlePaddle 框架调教的各类趣味模型~~
-喜欢的可以在AI Studio平台仓库内Fork哦，顺便点个♥(哈哈开玩笑啦~
-AI Studio个人主页地址：[AI Studio 卷鑫菜](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/780334)
-
-[![](https://github.com/jinzita-lx/jinzita-lx/assets/81578058/7feedc40-59a0-4a33-9572-623b4d6e5e95)](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/780334)
-
-
-<h1 align="center">
   WEB
 </h1>
 
